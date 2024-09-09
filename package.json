@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/kunalBrahma/MovieWeb/issues"
   },
-  "homepage": "https://github.com/kunalBrahma/MovieWeb#readme"
+  "homepage": "https://github.com/kunalBrahma/MovieWeb#readme",
+  "dependencies": {
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.4",
+    "sort-by": "^1.2.0"
+  }
 }
