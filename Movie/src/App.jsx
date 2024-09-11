@@ -27,4 +27,6 @@ function App() {
   );
 }
 
+// https://api.themoviedb.org/3/movie/popular?api_key=615839766e30cfbd49d4a78a7251346e&language=en-US&page=1
+
 export default App;
